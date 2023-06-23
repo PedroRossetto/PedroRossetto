@@ -3,7 +3,7 @@
 - 😬Estudante de Java Full-Stack e Cloud
 - 😄Pronome: ele/dele
   
-<div display="flex">
+<div display="flex" align-items: center flex-wrap: wrap>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=PedroRossetto&show_icons=true&theme=algolia"
