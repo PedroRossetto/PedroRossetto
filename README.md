@@ -1,11 +1,6 @@
 ### Oiiii, eu me chamo Pedro Arthur, seja bem-vindo(a) :) 
 
 
-
-![Pedro Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroRossetto&show_icons=true&theme=tokyonight)
-
-
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=PedroRossetto&show_icons=true&theme=tokyonight"
