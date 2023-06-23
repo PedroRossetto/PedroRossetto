@@ -3,7 +3,7 @@
 - 😬Estudante de Java Full-Stack e Cloud
 - 😄Pronome: ele/dele
   
-<div display="flex" width:33%>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=PedroRossetto&show_icons=true&theme=algolia"
@@ -19,5 +19,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRossetto&layout=donut&theme=algolia)](https://github.com/PedroRossetto/github-readme-stats)
-</div>
+
 
