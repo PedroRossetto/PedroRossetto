@@ -1,6 +1,6 @@
 ### Oiiii, eu me chamo Pedro Arthur, seja bem-vindo(a) :) 
 
-- 😬Estudante de Java Full-Stack e Cloud
+- 😬Estudante de Desenvolvimento Full-Stack 
 - 😄Pronome: ele/dele
   
 
