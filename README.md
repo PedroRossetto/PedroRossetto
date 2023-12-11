@@ -13,11 +13,8 @@
     srcset="https://github-readme-stats.vercel.app/api?username=PedroRossetto&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroRossetto&show_icons=true" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRossetto&layout=compact)
-</picture>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRossetto&layout=donut&theme=algolia)](https://github.com/PedroRossetto/github-readme-stats)
+
 
 
