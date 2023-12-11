@@ -14,7 +14,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=PedroRossetto&show_icons=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRossetto&layout=donut)](https://github.com/PedroRossetto/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRossetto&layout=compact)
 </picture>
 
 
