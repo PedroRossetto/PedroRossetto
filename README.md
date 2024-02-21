@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19106
-Fork on GitHub
-5660
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Olá, eu sou o Pedro 🙂</h1>
 <h3 align="center">Sou desenvolvedor fullstack Java 🤔</h3>
 
