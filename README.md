@@ -1,6 +1,6 @@
 
 <h1 align="center">Olá, eu sou o Pedro 🙂</h1>
-<h3 align="center">Sou desenvolvedor fullstack Java 🤔</h3>
+<h3 align="center">Sou desenvolvedor fullstack Java 😁</h3>
 
 
 
