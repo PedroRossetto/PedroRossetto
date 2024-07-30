@@ -1,7 +1,10 @@
 
 <h1 align="center">Olá, eu sou o Pedro 🙂</h1>
-<h3 align="center">Sou desenvolvedor fullstack Java 😁</h3>
+<h3 align="center">Sou Desenvolvedor Fullstack 😁</h3>
 
+<h3>Estou aberto a trabalhos e oportunidades de hackathons caso queira me chamar</h3>
+
+<h3>Amo estudar e aprender, tenho muito interesse em programação. Tem algum projeto e precisa de pessoas? Me chame, amo mexer com a parte de lógica da programação </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
