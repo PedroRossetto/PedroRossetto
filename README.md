@@ -5,6 +5,18 @@
 
 <h3>I love studying and learning, I am very interested in programming. Do you have a project and need people? Call me, I love messing with the logic part of programming</h3>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PedroRossetto&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PedroRossetto&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroRossetto&show_icons=true" />
+</picture>
+
 
 <h1 align="center">Olá, eu sou o Pedro 🙂</h1>
 <h3 align="center">Sou Desenvolvedor Fullstack 😁</h3>
